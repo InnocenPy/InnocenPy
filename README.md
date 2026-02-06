@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @InnocenPy  
 
 - 👀 I’m interested in software development, open-source projects, and exploring the intersection of Python with modern frameworks.  
-- 🌱 I’m currently learning advanced concepts in **Docker**, **NestJS**, and **Angular**, while improving my skills in scalable system design.  
+- 🌱 I’m currently learning advanced concepts in **Docker**, **NestJS**, **SpringBoot**, and **Angular**, **ReactNative**, **Flutter**,**NextJs**, while improving my skills in scalable system design.  
 - 💞️ I’m looking to collaborate on projects involving **web applications**, **API development**, and **containerized deployments**.  
-- 📫 How to reach me: [innocenpy@example.com](mailto:innocenpy@example.com) or via [LinkedIn](https://www.linkedin.com/in/innocenpy).  
+- 📫 How to reach me: [innocenpy@223Dev.com](mailto:dktseydou@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/innocenpy).  
 
 ## 🛠️ Languages & Tools
 
